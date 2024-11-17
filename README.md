@@ -1,5 +1,8 @@
 # SEMANTIC-HTML
 Latihan Praktikum Semantic HTML
+<br>NAMA : LISTRIA INDAH MAWARNI<br>
+<br>NIM  : 2205101014<br>
+<br>KELAS : 5B - TIF<br>
 
 <br>##DOKUMEN INDEX HTML##<br>
 <br>STRUKTUR DASAR<br>
